@@ -1,2 +1,2 @@
 # TheLastVideoPy
-Notify wit the last video post in the selecct channel
+This is a small code, which will show the title of the last video that is uploaded to the designated youtube channel
